@@ -3,9 +3,7 @@
 
 - 💬 Ask me about **Python, AI/ML, research...**
 
-- 📫 How to reach me **shashvat990@gmail.com**
 
-- ⚡ Fun fact **I am a Pro Beatboxer**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
