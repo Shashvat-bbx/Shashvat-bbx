@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shashvat</h1>
-<h3 align="center">A passionate AI/ML researcher and developer.</h3>
+<h1 >Hi 👋, I'm Shashvat</h1>
+<h3 >A passionate AI/ML researcher and developer.</h3>
 
 - 💬 Ask me about **Python, AI/ML, research...**
 
